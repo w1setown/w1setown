@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on nothing particular at the moment
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/gabrielganderup/
 - 🖥️ Technologies learned so far: HTML, CSS, JavaScript, Python, Godot 4 and GDScript.
-- 
 
 <!---
 w1setown/w1setown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
