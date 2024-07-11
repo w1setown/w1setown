@@ -7,6 +7,8 @@
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/gabrielganderup/
 - 🖥️ Technologies learned so far: HTML, CSS, JavaScript, Python, Godot 4 and GDScript.
 
+- My profile picture was made by the amazing Taylor Zhifu: https://artistree.io/taylorzhifu
+
 <!---
 w1setown/w1setown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
