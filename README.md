@@ -9,6 +9,10 @@
 
 - My profile picture was made by the amazing Taylor Zhifu: https://artistree.io/taylorzhifu
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1setown)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 w1setown/w1setown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
