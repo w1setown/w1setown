@@ -10,8 +10,8 @@
 - My profile picture was made by the amazing Taylor Zhifu: https://artistree.io/taylorzhifu
 
 <br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1setown&layout=donut)](https://github.com/W1setown/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1setown&show_icons=true&theme=tokyonight)](https://github.com/W1setown's/github-readme-stats)
 
 
 <!---
