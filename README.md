@@ -4,7 +4,7 @@
   
 * 👀 I'm interested in music, computers and programming
 
-* 🌱 I'm currently learning ASM and C
+* 🌱 I'm currently learning C
 
 * 🧗 I want to learn more about AI and OS Development.
 
