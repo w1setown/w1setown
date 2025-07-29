@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1setown&langs_count=8" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1setown&langs_count=8" />
 
 * 👋 Hi, I'm @w1setown
   
