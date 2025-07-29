@@ -6,7 +6,7 @@
 
 * 🌱 I'm currently learning C
 
-* 🧗 I want to learn more about AI and OS Development.
+* 🧗 I want to learn more about Embedded Systems, AI and OS Development.
 
 * 👨🏻‍💻 I'm currently working on a project. So I am not available to take any extra tasks.
 
