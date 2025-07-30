@@ -16,6 +16,4 @@
 
 * 🖥️ Technologies learned so far: HTML, CSS, C#, JavaScript, PHP, SQL, Python, Godot 4 and GDScript.
 
-* My profile picture was made by the amazing [Taylor Zhifu](https://artistree.io/taylorzhifu)
-
 <br clear="left"/>
