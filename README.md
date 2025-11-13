@@ -1,5 +1,5 @@
 
-👋 About Me<br><br>Hi, I’m Gabriel Visby Søgaard Ganderup. I’m a programming student with a passion for problem-solving and building creative solutions.<br><br>🔎 Looking for<br><br>Open-source projects to learn and contribute to<br><br>Opportunities in C, C#, Python, and web development<br><br><br>💻 Interested in<br><br>Game development (puzzle & systems design)<br><br>AI/ML experiments<br><br>Tools that make coding easier for others<br><br><br>🎉 Fun Fact<br><br>I’ve been a scout for over 15 years — which means I can navigate the wilderness… and my way through spaghetti code 🍝🧑‍💻
+👋 About Me<br><br>Hi, I’m Gabriel Visby Søgaard Ganderup. I’m a programming student with a passion for problem-solving and building creative solutions.<br><br>🔎 Looking for<br><br>Open-source projects to learn and contribute to<br><br>Opportunities in C, C#, Python, and web development<br><br><br>💻 Interested in<br><br>Game development (puzzle & systems design)<br><br>AI/ML experiments<br><br>Tools that make coding easier for others<br><br><br>🎉 Fun Fact<br><br>I’ve been a scout for over 15 years — which means I can navigate the wilderness… and my way through my own spaghetti code 🍝🧑‍💻
 
 
 ## 🌐 Socials:
